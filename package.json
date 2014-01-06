@@ -1,0 +1,6 @@
+{
+  "name": "SocketApp",
+  "dependencies": {
+    "socket.io": "~0.9.16"
+  }
+}
